@@ -1,4 +1,4 @@
-# _𝒃𝒆𝒎 𝒗𝒊𝒏𝒅𝒐, 𝒔𝒐𝒖 𝒐 𝒎𝒂𝒏𝒐𝒆𝒍!_
+# 𝒃𝒆𝒎 𝒗𝒊𝒏𝒅𝒐, 𝒔𝒐𝒖 𝒐 𝒎𝒂𝒏𝒐𝒆𝒍!
 
 <div>
   <a href="https://github.com/ManoelMarques10">
