@@ -1,5 +1,4 @@
 # Bem Vindo, Sou O Manoel!
-.
 
 <div>
   <a href="https://github.com/ManoelMarques10">
