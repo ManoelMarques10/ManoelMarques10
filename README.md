@@ -29,4 +29,3 @@
   <a href="https://www.linkedin.com/in/manoel-vitor-de-medeiros-marques-17952a2b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ManoelMarques10&repo=simulador-de-compras-em-lojas)](https://github.com/ManoelMarques10/simulador-de-compras-em-lojas)
