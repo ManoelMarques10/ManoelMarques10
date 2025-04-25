@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Sou+o+Manoel+seja+bem+vindo!;Second+line+of+text)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Sou+o+Manoel+seja+bem+vindo!;Second+line+of+text)](https://git.io/typing-svg)
 
 <div>
   <a href="https://github.com/ManoelMarques10">
