@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fjalla+One&size=30&pause=1000&color=#C79EF7&width=460&lines=Ol%C3%A1%2C+sou+o+Manoel.+Seja+bem-vindo!+%F0%9F%91%BE;Hi%2C+i'm+Manoel.+Welcome!+%F0%9F%91%BE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fjalla+One&size=30&pause=1000&color=#8C80F7&width=460&lines=Ol%C3%A1%2C+sou+o+Manoel.+Seja+bem-vindo!+%F0%9F%91%BE;Hi%2C+i'm+Manoel.+Welcome!+%F0%9F%91%BE)](https://git.io/typing-svg)
 
 <div>
   <a href="https://github.com/ManoelMarques10">
