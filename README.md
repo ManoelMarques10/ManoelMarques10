@@ -6,19 +6,16 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoelMarques10&layout=compact&langs_count=16&theme=tokyonight"/>
 </div> 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Vivi-Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Vivi-Java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"> 
-  <img align="center" alt="Vivi-Html" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" alt="Vivi-Css" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">        
-  <img align="center" alt="Vivi-JavaScript" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">          
+  <img align="center" alt="Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">         
 </div>
   
 ## 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Vivi-VsCode" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" >
-  <img align="center" alt="Vivi-PyC" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" >
-  <img align="center" alt="Vivi-PyC" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" >
+  <img align="center" alt="VsCode" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" >
+  <img align="center" alt="PyC" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" >
+  <img align="center" alt="Intellij" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" >
 </div>
           
 ##
